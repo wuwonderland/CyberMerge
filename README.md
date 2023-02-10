@@ -14,7 +14,7 @@ React files for .jsx
 
 Motoko files for .mo
 
-the purpose is to show my coding skill for interviewer or someone who would like to hire me. 
+<h4>the purpose of this project is to show my coding skill to interviewer or someone who would like to hire me.</h4> <br> 
 
 
 
