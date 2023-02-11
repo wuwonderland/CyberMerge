@@ -1,18 +1,16 @@
-# CyberMerge
-
-NFT Marketplace 
+# CyberMerge: NFT Marketplace 
 
 
 
 This project has only been uploaded with major files:
 
---Frontend--
+  ------ Frontend ------
 
-React files for .jsx
+• React files for .jsx
 
---Backend--
+  ------ Backend ------
 
-Motoko files for .mo
+• Motoko files for .mo
 
 <h4>the purpose of this project is to show my coding skill to interviewer or someone who would like to hire me.</h4> <br> 
 
